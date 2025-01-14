@@ -28,7 +28,8 @@ Un remake de ese mismo juego fue realizado, llamado “The Game Remake”, para 
 comparación de todo lo que he avanzado en este tiempo y redimir los errores que cometí en mi
 primer proyecto, no borrare ese proyecto ni modificare nada que ya haya sido creado, para dar una
 mejor comparación creare un nuevo proyecto desde 0 basado en el primero que de una mejor
-perspectiva de lo que aprendí. Enlace para ver el proyecto https://scratch.mit.edu/projects/1107471553/
+perspectiva de lo que aprendí.
+Enlace para ver el proyecto https://scratch.mit.edu/projects/1107471553/
 
 # El primer juego 3D que desarrolle
 
