@@ -20,7 +20,9 @@ derecha y después bajara y por último girar 90º a la izquierda restaurando la
 Debido a que la lógica de movimiento estaba implementada de manera que, para que el Sprite se
 moviera de manera horizontal por todo el “eje x” usando las teclas izquierda y derecha causaba un
 conflicto de movimiento el cual no pude arreglar en aquel momento.
+
 Enlace para ver el proyecto https://scratch.mit.edu/projects/126392615/
+
 No fue hasta un tiempo después que aprendí cosas como las colisiones, funciones y otra serie de
 cosas en las clases de programación de mi formación profesional que puede ver una solución a todos
 los errores que había cometido en mi primer proyecto.
@@ -29,6 +31,7 @@ comparación de todo lo que he avanzado en este tiempo y redimir los errores que
 primer proyecto, no borrare ese proyecto ni modificare nada que ya haya sido creado, para dar una
 mejor comparación creare un nuevo proyecto desde 0 basado en el primero que de una mejor
 perspectiva de lo que aprendí.
+
 Enlace para ver el proyecto https://scratch.mit.edu/projects/1107471553/
 
 # El primer juego 3D que desarrolle
@@ -51,8 +54,11 @@ juego fue desarrollado usando Android Studio y libGDX me guie de tutoriales para
 framework ya que la aplicación de por sí sola carecía de elementos para poder realizar el proyecto de
 manera satisfactoria. Actualmente la aplicación no está recibiendo ningún soporte sin embargo
 poseo un github en el que guardo la versión más estable del proyecto.
+
 Enlace github: https://github.com/themaestre/FishyFlappy
+
 Si te apetece probar el juego está disponible totalmente gratuito en play store.
+
 Enlace play store: https://play.google.com/store/apps/details?id=com.erdarkniel.fishyflappy
 
 # Escogiendo un motor de desarrollo
